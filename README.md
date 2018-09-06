@@ -26,25 +26,29 @@ century are covered in this volume.
 ### Table of Contents
 
 -   Introduction
--   PART I: BACKGROUND ‘ROBUST’ THEORIES
+PART I: BACKGROUND ‘ROBUST’ THEORIES
+
     1.  *On Truth and Copying*, F. H. Bradley
     2.  *The Nature of Truth*, H. H. Joachim
     3.  *Pragmatism’s Conception of Truth*, William James
     4.  *William James’s Conception of Truth*, Bertrand Russell
 
--   PART II: EARLY MINIMALIST THEORIES
+PART II: EARLY MINIMALIST THEORIES
+
     5.  *The Thought: A Logical Enquiry*, Gottlob Frege
     6.  *On Facts and Propositions*, F. P. Ramsey
     7.  *Philosophical Extracts*, Ludwig Wittgenstein
     8.  *The Semantic Conception of Truth*, Alfred Tarski
     9.  *Philosophy of Logic*, W. V. Quine
 
--   PART III: THE EARLY MODERN DEBATE
+PART III: THE EARLY MODERN DEBATE
+
     10.  *Truth*, J. L. Austin
     11.  *Truth*, P. F. Strawson
     12.  *Unfair to Facts*, J. L. Austin
 
--   PART IV: MODERN MINIMALISM AND DOUBTS ABOUT IT
+PART IV: MODERN MINIMALISM AND DOUBTS ABOUT IT
+
     13.  *Truth: A Traditional Debate Reviewed*, Crispin Wright
     14.  *The Minimalist Conception of Truth*, Paul Horwich
     15.  *Of What Kind of Thing is Truth a Property?*, Michael Dummett
