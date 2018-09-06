@@ -1,9 +1,12 @@
 ⊃¬Q : Proseminar on *Truth*
 ===========================
-*Truth (Oxford Readings in Philosophy)* [1]
+*Truth (Oxford Readings in Philosophy)*
 -----------------------------------------
 
 ### Details
+SIMON BLACKBURN and KEITH SIMMONS, eds. 
+(Oxford University Press: October 1999), 
+416 pages. Oct 01 . 1999
 
 This volume is designed to set out some of the central issues in the
 theory of truth. It draws together, for the first time, the debates
@@ -25,7 +28,7 @@ Introduction
 
 PART I: BACKGROUND ‘ROBUST’ THEORIES
 
-1.  On Truth and Copying, F. H. Bradley
+1.  *On Truth and Copying*, F. H. Bradley
 2.  *The Nature of Truth*, H. H. Joachim
 3.  *Pragmatism’s Conception of Truth*, William James
 4.  *William James’s Conception of Truth*, Bertrand Russell
@@ -58,4 +61,4 @@ PART IV: MODERN MINIMALISM AND DOUBTS ABOUT IT
 -   Select Bibliography
 -   Index
 
-[1] SIMON BLACKBURN and KEITH SIMMONS, eds. (Oxford University Press: October 1999), 416 pages. Oct 01 . 1999
+
