@@ -2,58 +2,20 @@
 
 <div id="outline-container-org7f7fc17" class="outline-2">
 
-⊃¬Q : Proseminar (Reading Group) on *Truth* {#org7f7fc17}
+## ⊃¬Q : Proseminar on *Truth*
 -------------------------------------------
 
-<div id="text-org7f7fc17" class="outline-text-2">
+### About ⊃¬Q Proseminars 
 
-</div>
+#### Goals and Objectives 
 
-<div id="outline-container-org751fb47" class="outline-3">
+#### Duration of Seminars
 
-### About ⊃¬Q Proseminars {#org751fb47}
+#### GitHub 
 
-<div id="text-org751fb47" class="outline-text-3">
+### Truth (Oxford Readings in Philosophy) ^[1](#fn.1){#fnr.1 .footref}^ 
 
-</div>
-
-<div id="outline-container-org9bf0d26" class="outline-4">
-
-#### Goals and Objectives {#org9bf0d26}
-
-</div>
-
-<div id="outline-container-org4887b83" class="outline-4">
-
-#### Duration of Seminars {#org4887b83}
-
-</div>
-
-<div id="outline-container-org4e09d6d" class="outline-4">
-
-#### GitHub {#org4e09d6d}
-
-<div id="text-org4e09d6d" class="outline-text-4">
-
-401de57ae046efe3be04a053e6c043ea374acd8c
-
-</div>
-
-</div>
-
-</div>
-
-<div id="outline-container-org3c8de02" class="outline-3">
-
-### Truth (Oxford Readings in Philosophy) ^[1](#fn.1){#fnr.1 .footref}^ {#org3c8de02}
-
-<div id="text-org3c8de02" class="outline-text-3">
-
-</div>
-
-<div id="outline-container-org6119e20" class="outline-4">
-
-#### Details {#org6119e20}
+#### Details 
 
 <div id="text-org6119e20" class="outline-text-4">
 
@@ -72,10 +34,6 @@ that most, if not all significant theories of truth advanced in the 20th
 century are covered in this volume.
 
 </div>
-
-</div>
-
-<div id="outline-container-org0f534f3" class="outline-4">
 
 #### Table of Contents {#org0f534f3}
 
@@ -108,12 +66,6 @@ century are covered in this volume.
     -   Notes on the Contributors
     -   Select Bibliography
     -   Index
-
-</div>
-
-</div>
-
-</div>
 
 </div>
 
