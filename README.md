@@ -1,10 +1,6 @@
 ⊃¬Q : Proseminar on *Truth*
 ===========================
-
-About ⊃¬Q Proseminars
----------------------
-
-Truth (Oxford Readings in Philosophy) [1]
+*Truth (Oxford Readings in Philosophy)* [1]
 -----------------------------------------
 
 ### Details
@@ -61,5 +57,4 @@ PART IV: MODERN MINIMALISM AND DOUBTS ABOUT IT
     -   Select Bibliography
     -   Index
 
-[1] SIMON BLACKBURN and KEITH SIMMONS, eds. (Oxford University Press:
-October 1999), 416 pages. Oct 01 . 1999
+[1] SIMON BLACKBURN and KEITH SIMMONS, eds. (Oxford University Press: October 1999), 416 pages. Oct 01 . 1999
