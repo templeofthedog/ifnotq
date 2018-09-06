@@ -25,7 +25,8 @@ century are covered in this volume.
 
 ### Table of Contents
 
--   Introduction
+Introduction
+
 PART I: BACKGROUND ‘ROBUST’ THEORIES
 
     1.  *On Truth and Copying*, F. H. Bradley
