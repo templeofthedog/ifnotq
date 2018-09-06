@@ -25,7 +25,7 @@ Introduction
 
 PART I: BACKGROUND ‘ROBUST’ THEORIES
 
-    1.  *On Truth and Copying*, F. H. Bradley
+    1.  /On Truth and Copying/, F. H. Bradley
     2.  *The Nature of Truth*, H. H. Joachim
     3.  *Pragmatism’s Conception of Truth*, William James
     4.  *William James’s Conception of Truth*, Bertrand Russell
