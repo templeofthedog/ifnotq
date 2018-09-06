@@ -1,7 +1,3 @@
-LOGBOOK) date:t e:t email:nil f:t inline:t
-
-html-postamble:auto html-preamble:t tex:t
-
 ⊃¬Q : Proseminar on *Truth*
 ===========================
 
@@ -31,32 +27,31 @@ century are covered in this volume.
 
 -   Introduction
 -   PART I: BACKGROUND ‘ROBUST’ THEORIES
-    -   1.  *On Truth and Copying*, F. H. Bradley
-    -   1.  *The Nature of Truth*, H. H. Joachim
-    -   1.  *Pragmatism’s Conception of Truth*, William James
-    -   1.  *William James’s Conception of Truth*, Bertrand Russell
+    1.  *On Truth and Copying*, F. H. Bradley
+    2.  *The Nature of Truth*, H. H. Joachim
+    3.  *Pragmatism’s Conception of Truth*, William James
+    4.  *William James’s Conception of Truth*, Bertrand Russell
 
 -   PART II: EARLY MINIMALIST THEORIES
-    -   1.  *The Thought: A Logical Enquiry*, Gottlob Frege
-    -   1.  *On Facts and Propositions*, F. P. Ramsey
-    -   1.  *Philosophical Extracts*, Ludwig Wittgenstein
-    -   1.  *The Semantic Conception of Truth*, Alfred Tarski
-    -   1.  *Philosophy of Logic*, W. V. Quine
+    5.  *The Thought: A Logical Enquiry*, Gottlob Frege
+    6.  *On Facts and Propositions*, F. P. Ramsey
+    7.  *Philosophical Extracts*, Ludwig Wittgenstein
+    8.  *The Semantic Conception of Truth*, Alfred Tarski
+    9.  *Philosophy of Logic*, W. V. Quine
 
 -   PART III: THE EARLY MODERN DEBATE
-    -   1.  *Truth*, J. L. Austin
-    -   1.  *Truth*, P. F. Strawson
-    -   1.  *Unfair to Facts*, J. L. Austin
+    10.  *Truth*, J. L. Austin
+    11.  *Truth*, P. F. Strawson
+    12.  *Unfair to Facts*, J. L. Austin
 
 -   PART IV: MODERN MINIMALISM AND DOUBTS ABOUT IT
-    -   1.  *Truth: A Traditional Debate Reviewed*, Crispin Wright
-    -   1.  *The Minimalist Conception of Truth*, Paul Horwich
-    -   1.  *Of What Kind of Thing is Truth a Property?*, Michael
-            Dummett
-    -   1.  *A Critique of Deflationism*, Anil Gupta
-    -   1.  *The Folly of Trying to Define Truth*, Donald Davidson
-    -   1.  *Pragmatism, Davidson, and Truth*, Richard Rorty
-    -   1.  *Deflationist Views of Meaning and Content*, Hartry Field
+    13.  *Truth: A Traditional Debate Reviewed*, Crispin Wright
+    14.  *The Minimalist Conception of Truth*, Paul Horwich
+    15.  *Of What Kind of Thing is Truth a Property?*, Michael Dummett
+    16.  *A Critique of Deflationism*, Anil Gupta
+    17.  *The Folly of Trying to Define Truth*, Donald Davidson
+    18.  *Pragmatism, Davidson, and Truth*, Richard Rorty
+    19.  *Deflationist Views of Meaning and Content*, Hartry Field
     -   Notes on the Contributors
     -   Select Bibliography
     -   Index
